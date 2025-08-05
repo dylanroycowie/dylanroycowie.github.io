@@ -18,4 +18,3 @@ Hello! I'm Dylan.
 
 ## Contact
 
-[Email me](dylanroycowieblog@gmail.com)
