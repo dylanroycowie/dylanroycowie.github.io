@@ -37,7 +37,7 @@ social:
   name: Dylan Roy Cowie
  #email: dylanroycowieblog@gmail.com # change to your email address
   links:
-  - [Email me](mailto:dylanroycowieblog@gmail.com)
+  -
     # The first element serves as the copyright owner's link
    # - https://twitter.com/username # change to your Twitter homepage
     - https://github.com/dylanroycowie # change to your GitHub homepage
@@ -75,7 +75,7 @@ analytics:
     id: # fill in your Fathom Site ID
 
 # Page views settings
-pageviews:
+pageviews: 
   provider: # now only supports 'goatcounter'
 
 # Prefer color scheme setting.
