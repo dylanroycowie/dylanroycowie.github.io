@@ -4,13 +4,15 @@ icon: fas fa-info-circle
 order: 4
 ---
 
- > Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
 
 
 # About Me
 
 Hello! I'm Dylan.
+
+<i class="fa-solid fa-atom"></i> This is me practicing a bullet point
+
+
 
 ## Header 
 
