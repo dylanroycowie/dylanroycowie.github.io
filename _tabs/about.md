@@ -14,7 +14,7 @@ Hello! I'm Dylan.
 
 ## Header 
 
-- Trying to work this page
+- Trying to work this page out
 
 ## Contact
 
