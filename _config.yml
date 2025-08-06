@@ -99,7 +99,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://i1.pickpik.com/photos/169/353/288/ladybug-insect-animals-close-preview.jpg
+avatar: https://cdn12.picryl.com/photo/2016/12/31/butterfly-insect-free-photos-animals-f2bda5-1024.jpg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
