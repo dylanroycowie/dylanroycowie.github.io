@@ -5,6 +5,5 @@ categories: [first post]
 tags: [posts about posting]
 ---
 
-# First Test Post
 
-This is my test post using vsc. xyxyxyx
+This is my test post using vsc. Check back later to see some real posts in late August once I have this up and running.
