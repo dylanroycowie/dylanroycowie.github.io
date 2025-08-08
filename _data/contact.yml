@@ -10,6 +10,8 @@
 # type: email
  # icon: "fas fa-envelope"
   # noblank: true # open link in current tab
+
+# maybe i could add a copy paste  to my email when pressing this button? with a drop down message similar to my footer which says click to copy?
   
 - type: linkedin
   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>

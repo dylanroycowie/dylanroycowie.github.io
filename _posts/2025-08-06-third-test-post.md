@@ -5,6 +5,4 @@ categories: [third post]
 tags: [posts about posting]
 ---
 
-# Third Test Post
-
 This is my third test post using vsc, checking if the site works. 
